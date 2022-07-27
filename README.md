@@ -7,10 +7,7 @@
 - :two_women_holding_hands: LGBTQiA+
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Hobbies: Natação, Futebol, Viajar e tomar uma cervejinha ouvindo musica.
-
 :email: milenacalado@hotmail.com
-Linkedin: www.linkedin.com/in/milena-calado-092983191
-facebook: https://www.facebook.com/caladomilena
-Instagram: caladomilena
+
 
 
