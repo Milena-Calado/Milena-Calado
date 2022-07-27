@@ -9,9 +9,8 @@
 - ⚡ Hobbies: Natação, Futebol, Viajar e tomar uma cervejinha ouvindo musica.
 
 :email: milenacalado@hotmail.com
-![Keybase BTC](https://img.shields.io/keybase/btc/Milena-Calado) www.linkedin.com/in/milena-calado-092983191
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcalado_milena
-:facebook: https://www.facebook.com/caladomilena
-:instagram: caladomilena
+Linkedin: www.linkedin.com/in/milena-calado-092983191
+facebook: https://www.facebook.com/caladomilena
+Instagram: caladomilena
 
 
