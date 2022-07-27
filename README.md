@@ -8,8 +8,8 @@
 - 😄 Pronomes: Ela/Dela.
 - ⚡ Hobbies: Natação, Futebol, Viajar e tomar uma cervejinha ouvindo musica.
 
-:email: milenacalado@hotmail.om
-:linkedin: www.linkedin.com/in/milena-calado-092983191
+:email: milenacalado@hotmail.com
+![Keybase BTC](https://img.shields.io/keybase/btc/Milena-Calado) www.linkedin.com/in/milena-calado-092983191
 :facebook: https://www.facebook.com/caladomilena
 :instagram: caladomilena
 
