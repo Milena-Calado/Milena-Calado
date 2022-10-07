@@ -1,8 +1,8 @@
 ### Milena Calado 
 
-- 🔭 Programa de Residência em Programação de Software pelo CIN-UFPE - Emprel
-- 🌱 Domínios: Java, Python, SpringBoot, PHP (estudo), MySQL, HTML, CSS, Javascript
-- 🌱 Cloud Computing, Machine Learnnig, Data Science, Blockchain
+- 🔭 Residente no Programa de Residência em Programação de Software pelo CIN-UFPE - Emprel
+- 🌱 Domínios: Java, Python, SpringBoot, MySQL;
+- 🌱 Conhecimento: HTML, CSS, Javascript, Machine Learnnig;
 - 💬 38 anos
 - :house: Recife - PE.
 - :two_women_holding_hands: LGBTQiA+
