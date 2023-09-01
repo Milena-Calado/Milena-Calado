@@ -4,7 +4,7 @@
 - 🌱 Python, Java, HTML, PHP, Machine Learnnig;
 - 💬 39 anos
 - :house: Recife - PE.
-- ⚡ Hobbies: Tecnologia, Natação, Futebol, Viajar e ouvir musica.
+- ⚡ Hobbies: Tecnologia, Esportes, Viajar, Musica.
 
 Linkedin: https://www.linkedin.com/in/milena-calado-092983191/
 
