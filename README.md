@@ -1,8 +1,8 @@
 ### Milena Calado 
 
 - 🔭 Especialização em Robótica e IA aplicada a testes pela UFPE - CIN/Softex
-- 🌱 Python, Java, JavaScript, HTML, CSS, MySQL, Flutter, Dart;
-- 💬 39 anos
+- 🌱 Python, Java, PHP, JavaScript, HTML, CSS, MySQL, Flutter, Dart;
+- 💬 40 anos
 - :house: Recife - PE.
 - ⚡ Hobbies: Tecnologia, Esportes, Viagem, Musica.
 
